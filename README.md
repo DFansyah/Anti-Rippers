@@ -41,7 +41,7 @@ Ikuti langkah-langkah berikut untuk menginstal dan menjalankan bot di server ata
     Buka terminal atau command prompt Anda dan jalankan perintah berikut:
 
     ```bash
-    git clone [https://github.com/DFansyah/Anti-Rippers.git](https://github.com/DFansyah/Anti-Rippers.git)
+    git clone https://github.com/DFansyah/Anti-Rippers.git
     cd Anti-Rippers
     ```
 
