@@ -1,0 +1,31 @@
+{
+  "users": {
+    "62882001225774@s.whatsapp.net": {
+      "name": "NormalPeople",
+      "afkTime": -1,
+      "afkReason": ""
+    }
+  },
+  "chats": {
+    "120363402069629506@g.us": {
+      "welcome": false,
+      "sWelcome": "",
+      "clearTime": 0,
+      "mute": false,
+      "autokick": true
+    }
+  },
+  "database": {},
+  "game": {},
+  "settings": {
+    "62882001225774@s.whatsapp.net": {
+      "status": 0,
+      "autobio": true,
+      "autoread": false
+    }
+  },
+  "others": {},
+  "stickers": {},
+  "anonymous": {},
+  "sticker": {}
+}

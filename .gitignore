@@ -1,0 +1,4 @@
+node_modules
+pacakage-lock.json
+session
+*.bak
